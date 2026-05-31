@@ -1,5 +1,10 @@
 # 小米米家小白智能摄像机增强版 (MJSXJ03CM) 固件逆向与 Root 指南
 
+<div align="center">
+  <img src="./MJSXJ03CM-1.jpg" width="48%" alt="MJSXJ03CM 设备展示 1" />
+  <img src="./MJSXJ03CM-2.jpg" width="48%" alt="MJSXJ03CM 设备展示 2" />
+</div>
+
 本项目旨在对“小米米家小白智能摄像机增强版（型号：MJSXJ03CM）”进行安全审计、固件逆向分析以及 Root 提权研究。通过分析其内部构造与系统启动流程，探讨如何在该设备上实现本地化控制和高级功能开发（如纯本地 RTSP 视频流）。
 
 > 适用固件版本：`3.5.8_20031301_c`
